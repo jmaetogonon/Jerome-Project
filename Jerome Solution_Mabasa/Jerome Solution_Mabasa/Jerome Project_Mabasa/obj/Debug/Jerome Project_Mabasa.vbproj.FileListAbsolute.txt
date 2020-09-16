@@ -1,0 +1,12 @@
+C:\Users\karel\source\repos\Jerome Solution_Mabasa\Jerome Project_Mabasa\bin\Debug\Jerome Project_Mabasa.exe.config
+C:\Users\karel\source\repos\Jerome Solution_Mabasa\Jerome Project_Mabasa\bin\Debug\Jerome Project_Mabasa.exe
+C:\Users\karel\source\repos\Jerome Solution_Mabasa\Jerome Project_Mabasa\bin\Debug\Jerome Project_Mabasa.pdb
+C:\Users\karel\source\repos\Jerome Solution_Mabasa\Jerome Project_Mabasa\bin\Debug\Jerome Project_Mabasa.xml
+C:\Users\karel\source\repos\Jerome Solution_Mabasa\Jerome Project_Mabasa\obj\Debug\Jerome Project_Mabasa.vbprojAssemblyReference.cache
+C:\Users\karel\source\repos\Jerome Solution_Mabasa\Jerome Project_Mabasa\obj\Debug\Jerome_Project_Mabasa.frmMain.resources
+C:\Users\karel\source\repos\Jerome Solution_Mabasa\Jerome Project_Mabasa\obj\Debug\Jerome_Project_Mabasa.Resources.resources
+C:\Users\karel\source\repos\Jerome Solution_Mabasa\Jerome Project_Mabasa\obj\Debug\Jerome Project_Mabasa.vbproj.GenerateResource.cache
+C:\Users\karel\source\repos\Jerome Solution_Mabasa\Jerome Project_Mabasa\obj\Debug\Jerome Project_Mabasa.vbproj.CoreCompileInputs.cache
+C:\Users\karel\source\repos\Jerome Solution_Mabasa\Jerome Project_Mabasa\obj\Debug\Jerome Project_Mabasa.exe
+C:\Users\karel\source\repos\Jerome Solution_Mabasa\Jerome Project_Mabasa\obj\Debug\Jerome Project_Mabasa.xml
+C:\Users\karel\source\repos\Jerome Solution_Mabasa\Jerome Project_Mabasa\obj\Debug\Jerome Project_Mabasa.pdb
